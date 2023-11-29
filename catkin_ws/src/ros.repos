@@ -1,0 +1,18 @@
+# List of repositories to use within your workspace
+# See https://github.com/dirk-thomas/vcstool
+############ 
+# Example:
+############
+repositories:
+  image_undistort:
+    type: git
+    url: https://github.com/ethz-asl/image_undistort.git
+    version: master
+  tello_driver:
+    type: git
+    url: https://github.com/Locke0/tello_driver.git
+    version: devel
+  robot_localization:
+    type: git
+    url: https://github.com/Locke0/robot_localization.git
+    version: melodic-devel
