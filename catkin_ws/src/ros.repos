@@ -2,7 +2,6 @@
 # See https://github.com/dirk-thomas/vcstool
 ############ 
 # Example:
-# Example:
 ############
 repositories:
   image_undistort:

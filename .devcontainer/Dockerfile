@@ -15,7 +15,6 @@ RUN apt update && \
         vim \
         python-pip \
         python-tk \
-        python3-vcstool \
         libyaml-dev \
         libgeographic-dev \
         python3-yaml \
