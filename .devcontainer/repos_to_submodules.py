@@ -31,7 +31,7 @@ def parse_repos_file(file_path):
                     print(f"Added {repo_name} as a submodule.")
 
 # Find .repos files within the src directory
-repos_files = glob.glob('catkin_ws/src/**/*.repos', recursive=True)
+repos_files = glob.glob('src/**/*.repos', recursive=True)
 
 # Process each .repos file
 for repos_file in repos_files:
