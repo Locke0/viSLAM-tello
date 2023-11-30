@@ -58,3 +58,6 @@ build-*/
 *.dat
 *.txt.user
 *.gch
+build
+devel
+.catkin_workspace
